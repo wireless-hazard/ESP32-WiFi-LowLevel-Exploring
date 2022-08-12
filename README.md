@@ -63,4 +63,7 @@ At this point I used the function only looking through its interface declared at
 
 After some guessing, turns out that I think that those [pre-compiled libraries](https://github.com/espressif/esp32-wifi-lib/tree/a224df6c90e2b04c498afaa59bcd538b1e791db9/esp32) mentioned before contain the definition for our functions.
 
+It seemed like a dead end for a while, but a googled a lot and stumbled across a company called [Oryx Embedded](https://www.oryx-embedded.com/), they develop a lot of network related solutions and have a huge list of [open source repositories](https://github.com/Oryx-Embedded).
+
+
 
