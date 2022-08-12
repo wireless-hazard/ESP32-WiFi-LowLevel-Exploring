@@ -1,6 +1,4 @@
-# ESP32 WiFi Low Level Exploring
-## Motivation 
-Understand some of the behaviours on how the ESP32 WiFi module works, getting at least as low as necessary to visualize a raw WiFi frame.
+# ESP32 WiFi Low Level Explorin
 
 ## Entrée - Looking into the private parts
 When developing a WiFi application for the ESP32, there are a common set of necessary steps that need to be followed to get the WiFi interface to work. Those steps to configure your device as a wireless station can be found at [esp-idf's examples folder](https://github.com/espressif/esp-idf/tree/release/v4.4/examples/wifi/getting_started/station), and (at least at the beginning of this journey) that example is going to be the base in which this project is build upon.
